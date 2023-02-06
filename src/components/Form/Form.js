@@ -69,7 +69,7 @@ const Form = () => {
 
       <div className="form-group row mt-2">
         <label className="text-light col-sm-4 col-form-label" htmlFor="servings">
-          Servings
+          Prep time
         </label>
         <div className="col-sm-8">
           <input className="form-control" type="text" id="servings" required/>
