@@ -24,6 +24,8 @@ The taskflow diagrams are created using draw.io[1] tool. Using draw.io[1], creat
 
 Lo-fidelity diagrams are the wireframes which represnts the actual user experience in mockup. This is the simple mockup of the website which is created using balsamiq.cloud[2]. The template of the website wireframe is available on Balsamiq[2] for reference which is used to create the wireframes.
 
+W3C complaint is validated using W3C complaint[8]. 
+
 
 ## Deployment
 
@@ -51,6 +53,6 @@ References :
 [4] “Create a new react app,” Reactjs.org. [Online]. Available: https://reactjs.org/docs/create-a-new-react-app.html. [Accessed: 05-Feb-2023].
 [5] A. Bansal, “How to Create a Registration Form using React.js and Connect it to Firebase,” Engineering Education (EngEd) Program | Section. [Online]. Available: https://www.section.io/engineering-education/registration-form-react.js-firebase/. [Accessed: 05-Feb-2023].
 [6] S. Recio, “How to use HTML5 form validations with React,” codeburst, 15-Jan-2019. [Online]. Available: https://codeburst.io/how-to-use-html5-form-validations-with-react-4052eda9a1d4. [Accessed: 05-Feb-2023].
-[7] “Build A header component,” Makeschool.org. [Online]. Available: https://makeschool.org/mediabook/oa/tutorials/react-fundamentals-vm0/build-a-header-component/. [Accessed: 06-Feb-2023].
-
+[7] “Build A header component,” Makeschool.org. [Online]. Available: https://makeschool.org/mediabook/oa/tutorials/react-fundamentals-vm0/build-a-header-component/. [Accessed: 05-Feb-2023].
+[8] “Markup validation service,” Validator.w3.org. [Online]. Available: https://validator.w3.org/. [Accessed: 05-Feb-2023].
 
