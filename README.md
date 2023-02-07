@@ -29,19 +29,19 @@ W3C complaint is validated using W3C complaint[8].
 
 ## Deployment
 
-The basic react app[4] is deployed on netlify[3]. The code base was first hosted on GitHub and the netlify account was linked with that repository from github. 
-After that application was deployed in minutes and even if new changes are pushed to GitHub repository, the application was redeployed.
+The react app[4] is deployed on netlify[3]. The code was first hosted on GitLab and then on GitHub and lastly the netlify account was linked with repository from github.At the end, the web application was deployed in few moements and  then if are any changes then netlify automatically build the react application and deploy it 
+
 
 ## Built With
 
 <!--- Provide a list of the frameworks used to build this application, your list should include the name of the framework used, the url where the framework is available for download and what the framework was used for, see the example below --->
 
-* [Reactjs](https://reactjs.org/docs/create-a-new-react-app.html) - The web framework used
+* Framework that I used - [Reactjs](https://reactjs.org/docs/create-a-new-react-app.html)
 
 ## Sources Used
 
-As required by the assignment submission requirement, I could use the boilerplate code for the purpose of fulfillment of assignment
-All the files just consist of code from basic boilerplate code referenced from [4]. The remaining code is developed referring [5],[6],[7].
+According to the requirement of the assignment for creating front-end, I have used the boilerplate code for the basic react app working[4].
+The remaining code is developed by referring the documentation and articles from[5],[6],[7].
 
 ## Acknowledgments
 
